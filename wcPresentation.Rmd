@@ -7,7 +7,7 @@ output:
   ioslides_presentation:
     logo: images/sunstar.png
 params:
-  region: Mountain
+  region: Pacific
 ---
 
 ```{r, echo=FALSE, message=FALSE, warning=FALSE }
